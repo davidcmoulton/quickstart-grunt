@@ -1,0 +1,4 @@
+.dummy {
+  width: calc(1em + 10px);
+  transition: all 5s 0.3s;
+}

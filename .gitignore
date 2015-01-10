@@ -1,0 +1,13 @@
+# https://git-scm.com/docs/gitignore
+# https://help.github.com/articles/ignoring-files
+# Example .gitignore files: https://github.com/github/gitignore
+
+.DS_Store
+.tmp
+*~
+.grunt
+_SpecRunner.html
+node_modules
+dist
+__tests__/**/*
+!__tests__/*.js
